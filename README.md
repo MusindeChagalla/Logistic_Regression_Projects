@@ -27,7 +27,3 @@ While hyperparameter tuning is often crucial for enhancing model performance, in
 Looking forward to diving deeper into other machine learning models and exploring more advanced tuning techniques to further refine model performance.
 
 #MachineLearning #DataScience #LogisticRegression #AI #HyperparameterTuning #DataAnalytics
-
----
-
-Feel free to adjust this draft to better suit your style and add any other insights or experiences you found valuable during your project!
