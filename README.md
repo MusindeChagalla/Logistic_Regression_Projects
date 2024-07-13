@@ -1,7 +1,3 @@
-That's great! Here's a draft for your LinkedIn post:
-
----
-
 **Exploring the Impact of Hyperparameter Tuning on Logistic Regression Performance**
 
 🔍 **Project Overview:**
